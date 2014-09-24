@@ -1,0 +1,8 @@
+1. Install tmux 1.9 (https://gist.github.com/shime/5706655#file-install-sh)
+# we need 1.9 for fancy new plugin manager
+
+2. Install tpm
+https://github.com/tmux-plugins/tpm
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
+3. Install desired plugin
